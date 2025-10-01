@@ -8,6 +8,9 @@ This project is an understanding exercise on modern approaches to **volatility e
 * **Comparison with VIX**
 * **Regime classification methods**: Hidden Markov Models (HMM) and Markov Switching Autoregressive Models (MSAR)
 
+The PDF file containing the explanations, plots and results is this [Volatility Modelling and Regime Classification Methods.pdf](Volatility%20Modelling%20and%20Regime%20Classification%20Methods.pdf)
+
+
 The project is designed as a **learning notebook**, combining implementation, testing, and reflection on the practical behavior of these models with real financial data (S&P 500, Yahoo Finance).
 
 ## 📊 Key Results
