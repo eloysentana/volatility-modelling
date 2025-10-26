@@ -22,7 +22,6 @@ The project is designed as a **learning notebook**, combining implementation, te
 
 
 ## ⚠️ Disclaimer
-Work in progress: analyses, code, and figures are being iterated; I am aware that several things, from the position of the plots or tables, to some methods need revision.
 
 This project is a **personal learning exercise**. It has not been supervised, checked, or commented on by anyone but me.
 
